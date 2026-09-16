@@ -10,7 +10,7 @@ Aryan Modi
 
 ## Team Members
 
-- Aryan Modi
+- Aryan Modi (Project Manager)
 - Neel Patel
 - Bansi Patel
 - Deep Shah
