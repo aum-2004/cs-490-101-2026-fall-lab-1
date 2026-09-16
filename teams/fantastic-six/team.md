@@ -14,5 +14,5 @@ Aryan Modi
 - Neel Patel
 - Bansi Patel
 - Deep Shah
-- Shawn Daniel
 - Melissa Suescun
+- Shawn Daniel
