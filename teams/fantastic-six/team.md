@@ -13,6 +13,6 @@ Aryan Modi
 - Aryan Modi
 - Neel Patel
 - Bansi Patel
-- Deep Shah
+- Deep Shah - This is me 
 - Shawn Daniel
 - Melissa Suescun
