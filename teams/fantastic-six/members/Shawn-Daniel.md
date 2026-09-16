@@ -11,7 +11,7 @@ Python
 ## Non-technical Hobby
 
 - Basketball
-- Running, Swimming, Biking
+- Singing
 - Gaming
 
 ## Favorite Cartoon
